@@ -50,9 +50,9 @@ main{
 
 #home{
     height: 100vh;
-    background-image: url("../images/entry-level-front-end-developer.jpg");
+    background-image: linear-gradient(to right, rgba(161, 158, 149,0.5) , rgba(143, 137, 119,0.5)) ,url("../images/entry-level-front-end-developer.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% 100%;
 }
 
 #home .mainHeading{
