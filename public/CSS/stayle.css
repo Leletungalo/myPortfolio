@@ -80,25 +80,30 @@ main{
 
 /*Project*/
 
+.subHeading{
+    color: white;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
 #projects{
     height: 90vh;
-    background-color: rgb(230, 0, 153);
+    background-color: rgb(0, 128, 255);
 }
 
 .projectDisplay{
+    
     display: flex;
     justify-content: space-around;
+
 }
 
 .con{
     width: 25%;
     box-shadow: 0 3px 5px black;
+    background-color: white;
 }
 
 .con .projectImage{
     width: 100%;
-}
-
-.con .projectInfo{
-    background-color: white;
 }
