@@ -1,0 +1,22 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "my personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leletungalo/myPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leletungalo/myPortfolio/issues"
+  },
+  "homepage": "https://github.com/Leletungalo/myPortfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
